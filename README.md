@@ -26,12 +26,13 @@ For speed, you could use CreateReactApp contains pre configured webpack settings
 
 **Note:**
 It is key for your web app to use a state management container to handle all data mutations. As such, you are required to illustrate the use of the different component lifecycle hooks of the framework used as well as the following key concepts of state management container used:
-   **Redux:**
-   ★ State
-   ★ Store
-   ★ Reducers
-   ★ Actions
-   ★ Action creators
+   
+**Redux:**
+* State
+* Store
+* Reducers
+* Actions
+* Action creators
 
 Complementing the understanding of the JavaScript framework used, the quiz focuses on knowledge of scoping, function expressions (and how they differ from function declarations), references, process of variable and function declaration, order of evaluation, and a couple more things like delete operator, object and array instantiation, assignment and mutation as used in JavaScript. 
 
