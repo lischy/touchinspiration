@@ -3,7 +3,7 @@
 **Summary**
 We need you to take the following standard technical assessment to enable us to gauge the following:
 
- 1. How you write code using a either ReactJS or VueJS. (correctness,
+ 1. How you write code using ReactJS. (correctness,
     efficiency, readable, clear).
     
  2. How you decompose a problem and design a solution.
