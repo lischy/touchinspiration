@@ -52,10 +52,9 @@ Most of these are applied in practice quite often.
 
 **Endpoint:** "[https://ti-react-test.herokuapp.com/users](https://ti-react-test.herokuapp.com/users)"
 
+```
 **Edit:**
-
 **Method: PATCH** 
-
 **Endpoint:** "[https://ti-react-test.herokuapp.com/users/{id}](https://ti-react-test.herokuapp.com/users/%7Bid%7D)"
 
     Parameters: {
@@ -66,6 +65,7 @@ Most of these are applied in practice quite often.
       "occupation"=>"MyString"
       }
     }
+    ```
 
    ---------
 Extra points for pretty functionality.
