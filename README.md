@@ -1,6 +1,7 @@
 ## Developer Test: Frontend Development
 
 **Summary**
+
 We need you to take the following standard technical assessment to enable us to gauge the following:
 
  1. How you write code using ReactJS. (correctness,
@@ -14,17 +15,20 @@ We need you to take the following standard technical assessment to enable us to 
  6. How complete and thoughtful your implementation is. Can the reviewer run it immediately?
 
 **Quiz:**
+
 Given the below API endpoint and attached design template, you are required to complete the following tasks:
  1. Setup a fresh web app based on ReactJS
   The setup should use Webpack as the dedicated module bundler and dependency manager for your web app. It should also use either yarn or npm for package management.
 
 **Hint:**
+
 For speed, you could use CreateReactApp contains pre configured webpack settings.
   
 1. Establish a stable state tree for the application using redux for ReactJS.
 3. Once all is set, use the provided API endpoint to fetch data from an external server and display it in your web app, conforming a design template of your choice. 
 
 **Note:**
+
 It is key for your web app to use a state management container to handle all data mutations. As such, you are required to illustrate the use of the different component lifecycle hooks of the framework used as well as the following key concepts of state management container used:
    
 **Redux:**
@@ -61,6 +65,7 @@ Most of these are applied in practice quite often.
 
    ---------
 Extra points for pretty functionality.
+
 **Submission:**
 
 Note that this task will require you to have a github/gitlab account. If you don't have either, you are required to setup one.
