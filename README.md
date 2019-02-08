@@ -6,7 +6,6 @@ We need you to take the following standard technical assessment to enable us to 
 
  1. How you write code using ReactJS. (correctness,
     efficiency, readable, clear).
-    
  2. How you decompose a problem and design a solution.
  3. How you are able to maintain a consistent state throughout the application using a dedicated state management container (vuex for
     VueJS and redux for ReactJS).
@@ -17,8 +16,8 @@ We need you to take the following standard technical assessment to enable us to 
 **Quiz:**
 
 Given the below API endpoint and attached design template, you are required to complete the following tasks:
- 1. Setup a fresh web app based on ReactJS
-  The setup should use Webpack as the dedicated module bundler and dependency manager for your web app. It should also use either yarn or npm for package management.
+ 1. Setup a fresh web app based on ReactJS: The setup should use Webpack as the dedicated module bundler and dependency manager for your web app. It should also use either yarn or npm for package management.
+ 2. Implement the Browse and the Edit endpoints below.
 
 **Hint:**
 
