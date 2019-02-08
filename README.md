@@ -67,9 +67,10 @@ Most of these are applied in practice quite often.
     }
 
    ---------
-Extra points for pretty functionality.
 
 **Submission:**
+
+Extra points for pretty functionality.
 
 Note that this task will require you to have a github/gitlab account. If you don't have either, you are required to setup one.
 
