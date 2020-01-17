@@ -4,7 +4,8 @@
 
 We need you to take the following standard technical assessment to enable us to gauge the following:
 
- 1. How you write code using ReactJS. (correctness, efficiency, readable, clear).
+ 1. Speed
+ 2. How you write code using ReactJS. (correctness, efficiency, readable, clear).
  2. How you decompose a problem and design a solution.
  3. How you are able to maintain a consistent state throughout the application using a dedicated state management container.
  4. How you are able to conform to ECMAScript standards for JavaScript throughout the application.
