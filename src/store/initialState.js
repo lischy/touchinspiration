@@ -1,8 +1,7 @@
-
 export default {
-  sessions:{},
+  sessions: {},
   users: {
     loader: false,
     list: [],
   },
-}
+};
